@@ -1,0 +1,33 @@
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8rem;
+    gap: 4rem;
+    margin: 2rem 0;
+  }
+
+  footer > div {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+  }
+
+  @media (max-width: 840px) {
+    footer {
+      padding: 0 2rem;
+      gap: 2rem;
+      display: flex;
+      justify-content: center;
+    }
+    footer > div {
+      display: flex;
+      justify-content: center;
+    }
+    footer>h2{
+      font-size: 15px;
+  }
+}
