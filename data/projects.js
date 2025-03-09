@@ -3,7 +3,7 @@ export const projects = [
       title: "Primer proyecto",
       description: "Star Wars: Jedi Survivor - Flexbox",
       image:
-        "/public/project1.Jedi.png",
+        "public/project1.Jedi.png/",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/Flexbox/blob/main/index.html",
       link: "https://jedisurvivor.vercel.app/",
@@ -12,7 +12,7 @@ export const projects = [
       title: "Segundo proyecto",
       description: "M.Jackson - Flex-Grid",
       image:
-        "../public/github.jpg",
+        "/public/project2.MJ.png/",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/M.Jackson/blob/main/style.css",
       link: "https://michaeljackson-chi.vercel.app/",
@@ -21,7 +21,7 @@ export const projects = [
       title: "Tercer proyecto",
       description: "Carhartt - Práctica de todo lo estudiado",
       image:
-        "/public/project3.Carhartt.png",
+        "public/project3.Carhartt.png",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/Proyecto1",
       link: "https://carhartt-eight.vercel.app/",
