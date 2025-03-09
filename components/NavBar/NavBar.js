@@ -1,4 +1,4 @@
-import "./Navbar.css";
+import "./NavBar.css";
 
 export const changeTheme = () => {
   const themeBtn = document.querySelector("#themeBtn");

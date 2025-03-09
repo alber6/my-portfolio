@@ -1,7 +1,7 @@
 import "./style.css";
-import { changeTheme } from "./components/Navbar/Navbar";
+import { changeTheme } from "./components/NavBar/NavBar";
 import { linkPage } from "./utils/linkPage";
-import { Navbar } from "./components/Navbar/Navbar";
+import { Navbar } from "./components/NavBar/NavBar";
 import { Footer } from "./components/Footer/Footer";
 import { Home } from "./pages/Home/Home";
 import { Projects } from "./pages/Projects/Projects";
