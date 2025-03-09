@@ -1,5 +1,5 @@
 import "./Home.css";
-import { cleanPage } from "../../utils/cleanPage";
+import { cleanPage } from "../../utils/cleanpage/";
 
 export const Home = () => {
   const main = document.querySelector("main");

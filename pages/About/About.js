@@ -1,5 +1,5 @@
 import "./About.css";
-import { cleanPage } from "../../utils/cleanPage";
+import { cleanPage } from "../../utils/cleanpage/";
 import { Divider } from "../../components/Divider/Divider";
 
 export const About = () => {
