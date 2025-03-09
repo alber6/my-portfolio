@@ -12,7 +12,7 @@ export const projects = [
       title: "Segundo proyecto",
       description: "M.Jackson - Flex-Grid",
       image:
-        "/public/project2.MJ.png",
+        "../public/github.jpg",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/M.Jackson/blob/main/style.css",
       link: "https://michaeljackson-chi.vercel.app/",
