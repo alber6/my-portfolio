@@ -30,7 +30,7 @@ export const projects = [
       title: "Cuarto proyecto",
       description: "Tienda - Trabajando con DOM",
       image:
-        "/public/images//projectDOM.png/",
+        src= "/public/images/projectDOM.png/",
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/alber6/PracticaDOM/blob/main/main.js",
       link: "https://practica-dom-dusky.vercel.app/",
