@@ -11,8 +11,7 @@ export const projects = [
     {
       title: "Segundo proyecto",
       description: "M.Jackson - Flex-Grid",
-      image:
-        "/images/project2.MJ.png",
+      image: "/images/project2.MJ.png",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/M.Jackson/blob/main/style.css",
       link: "https://michaeljackson-chi.vercel.app/",
@@ -20,8 +19,7 @@ export const projects = [
     {
       title: "Tercer proyecto",
       description: "Carhartt - Práctica de todo lo estudiado",
-      image:
-        "/images/project3.Carhartt.png",
+      image: "/images/project3.Carhartt.png",
       tech: ["HTML5", "CSS3"],
       github: "https://github.com/alber6/Proyecto1",
       link: "https://carhartt-eight.vercel.app/",
@@ -33,5 +31,21 @@ export const projects = [
       tech: ["HTML5", "CSS3", "JavaScript"],
       github: "https://github.com/alber6/PracticaDOM/blob/main/main.js",
       link: "https://practica-dom-dusky.vercel.app/",
+    },
+     {
+      title: "Quinto proyecto",
+      description: "Olimpiadas - probando firebase",
+      image: "/images/olimpiadas.avif",
+      tech: ["HTML5", "CSS3", "JavaScript"],
+      github: "https://github.com/alber6/olimpiadas",
+      link: "https://olimpiadas-mu-azure.vercel.app/",
+    },
+     {
+      title: "Sexto proyecto",
+      description: "Búsqueda de trabajos de alumnos. Uso de eventos.",
+      image: "/images/sexto.avif",
+      tech: ["HTML5", "CSS3", "JavaScript"],
+      github: "https://github.com/alber6/TrabajosSexto",
+      link: "https://trabajos-sexto.vercel.app/",
     },
   ];
